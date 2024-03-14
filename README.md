@@ -1,4 +1,4 @@
-# Bentilzone Online Restaurant App
+# cake and pastries Online Restaurant App
 
 ## STACK USED
 - ReactJS (Typescript)
